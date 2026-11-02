@@ -6,3 +6,10 @@ Currently there only one level for a demo
 
 
 <img width="351" height="339" alt="Screenshot 2026-11-02 172752" src="https://github.com/user-attachments/assets/b5d1a6f0-1d58-4768-b3eb-e7c71ff56529" />
+
+# Controls
+wsad - move
+q - attack
+tab - build
+f - interact
+esc - close game
