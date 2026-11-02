@@ -13,3 +13,8 @@ q - attack
 tab - build
 f - interact
 esc - close game
+
+
+# Try out the model
+here a full rig model of the character fill free to use it 
+<img width="822" height="751" alt="image" src="https://github.com/user-attachments/assets/b6dcde5a-1b72-41c2-bd67-1fc639709864" />
